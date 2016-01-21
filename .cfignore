@@ -1,3 +1,4 @@
 data/
 DOCKERFILES/
 results.csv
+.env
